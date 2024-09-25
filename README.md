@@ -1,5 +1,5 @@
 # happy-birthday
-Hi, JJ, aka platform engineer, I and ChatGPT crafted a fun, easy yet intricate "Happy Birthday" Capture the Flag (CTF) challenge tailored to their skill set. There is a mix of problem-solving, platform engineering-related concepts, and a few sneaky tricks to keep things fun and engaging.
+Hi, JJ, aka platform engineer, I and ChatGPT crafted a fun, easy yet intricate "Happy Birthday" Capture the Flag (CTF) challenge tailored to your skill set. There is a mix of problem-solving, platform engineering-related concepts, and a few sneaky tricks to keep things fun and engaging.
 
 ### Overview of the CTF:
 The CTF could be a multi-stage challenge with various layers of puzzles and tasks. Each stage leads to a flag or clue, and the final flag will be a birthday message. We set it up as a series of hidden clues in different formats (e.g., text, encoded strings, simple reverse engineering, and debugging). We’ll use concepts from areas like web security, Linux systems, and containerization—something a platform engineer would be familiar with but still find enjoyable.
